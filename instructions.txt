@@ -1,0 +1,76 @@
+This is a java program designed to convert between imperial and metric units of measurement. 
+This program was used as a starting point: http://programmingbydoing.com/a/using-swing-for-input.html
+Conversions calculated using Google. 
+
+When run, the programs asks the user which conversion they require, than how many units need to be converted. 
+All possible conversions, with prompt and meaning, listed below.
+
+Conversion prompts:
+
+LENGTH CONVERSIONS
+"in to cm" inches to centimeters
+"in to m" inches to meters 
+"ft to cm" feet to centimeters
+"ft to m" feet to meters
+"ft to km" feet to kilometers
+"mi to cm" miles to centimeters
+"mi to m" miles to meters
+"mi to km" miles to kilometers
+"cm to in" centimeters to inches
+"cm to ft" centimeters to feet
+"cm to mi" centimeters to miles
+"m to in" meters to inches
+"m to ft" meters to feet
+"m to mi" meters to miles
+"km to ft" kilometers to feet
+"km to mi" kilometers to miles
+
+VOLUME CONVERSIONS
+"gallons to ml" gallons to milliliters
+"gallons to L" gallons to liters
+"quarts to ml" quarts to milliliters
+"quarts to L" quarts to liters
+"pints to ml" pints to milliliters
+"pints to L" pints to liters
+"cups to ml" cups to milliliters
+"cups to L" cups to liters
+"oz to ml" ounces to milliliters
+"oz to L" ounces to liters
+"tbsp to ml" tablespoons to milliliters
+"tbsp to L" tablespoons to liters
+"tsp to ml" teaspoons to milliliters
+"tsp to L" teaspoons to liters
+"ml to gallons" milliliters to gallons
+"ml to quarts" milliliters to quarts
+"ml to pints" milliliters to pints
+"ml to cups" milliliters to cups
+"ml to oz" milliliters to ounces
+"ml to tbsp" milliliters to tablespoons
+"ml to tsp" milliliters to teaspoons
+"L to gallons" liters to gallons
+"L to quarts" liters to quarts
+"L to pints" liters to pints
+"L to cups" liters to cups
+"L to oz" liters to ounces
+"L to tbsp" liters to tablespoons
+"L to tsp" liters to teaspoons
+
+TEMPERATURE CONVERSIONS
+"celsius to fahrenheit" degrees celsius to degrees fahrenheit
+"c to f" degrees celsius to degrees fahrenheit
+"fahrenheit to celsius" degrees fahrenheit to degrees celsius
+"f to c " degrees fahrenheit to degrees celsius
+
+WEIGHT CONVERSIONS
+"oz to g" ounces to grams
+"oz to kg" ounces to kilograms
+"oz to stone" ounces to stone
+"lb to g" pounds to grams
+"lb to kg" pounds to kilograms
+"lb to stone" pounds to stone
+"g to oz" grams to ounces
+"g to lb" grams to pounds
+"kg to oz" kilograms to ounces
+"kg to lb" kilograms to pounds
+"stone to oz" stone to ounces
+"stone to lb" stone to pounds
